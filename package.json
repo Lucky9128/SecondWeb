@@ -1,0 +1,22 @@
+{
+  "name": "secweb",
+  "version": "1.0.0",
+  "description": "This is the second trail of node js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyTP/SecondWeb.git"
+  },
+  "author": "Lucky A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuckyTP/SecondWeb/issues"
+  },
+  "homepage": "https://github.com/LuckyTP/SecondWeb#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
